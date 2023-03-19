@@ -1,0 +1,15 @@
+{
+    "version" : "0.8.0",
+    "packages" : [
+        {
+            "name" : "characters",
+            "url" : "https://github.com/RedMorgan54/...../characters.rpa",
+            "md5" : "dcce87c13e482469dd980d7a1d328e91"
+        },
+        {
+            "name" : "new_package",
+            "url" : "https://github.com/RedMorgan54/...../new_package.rpa",
+            "md5" : "f4ac4064a5297e00dbe5c87a249ce59C"
+        }
+    ]
+}
