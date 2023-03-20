@@ -1,15 +1,30 @@
 {
-    "version" : "0.8.0",
+    "version" : "0.7.5",
     "packages" : [
         {
             "name" : "characters",
-            "url" : "https://github.com/RedMorgan54/...../characters.rpa",
-            "md5" : "dcce87c13e482469dd980d7a1d328e91"
+            "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/characters.rpa",
+            "md5" : "60ef1d0ab89b0ae3a4246263790908d5"
         },
         {
-            "name" : "new_package",
-            "url" : "https://github.com/RedMorgan54/...../new_package.rpa",
-            "md5" : "f4ac4064a5297e00dbe5c87a249ce59C"
+            "name" : "mod_assets",
+            "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/mod_assets.rpa",
+            "md5" : "4312429baa867c9d4c4c21b23d5ede9f"
+        },
+        {
+            "name" : "mod_images",
+            "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/mod_images.rpa",
+            "md5" : "80d04c3a4be6fd2b6acded43a11beb82"
+        },
+        {
+            "name" : "mod_sounds",
+            "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/mod_sounds.rpa",
+            "md5" : "a77dac520326d2d5ed63452de1f1100a"
+        },
+        {
+            "name" : "mod_storyline",
+            "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/mod_storyline.rpa",
+            "md5" : "8a3cd6ae5350cd945b5b4f2b9469840e"
         }
     ]
 }
