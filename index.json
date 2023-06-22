@@ -4,7 +4,7 @@
         {
             "name" : "characters",
             "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/characters.rpa",
-            "md5" : "0d09eac659371ec8b87e301285d197dc"
+            "md5" : "49eb34360ac82194fa3b07b9c796cfb2"
         },
         {
             "name" : "mod_assets",
@@ -24,7 +24,7 @@
         {
             "name" : "mod_storyline",
             "url" : "https://github.com/RedMorgan54/ddf4r_updatefiles/releases/download/ddf4r_packages/mod_storyline.rpa",
-            "md5" : "1d6486cb7398ee0e11e918dd9aaf468d"
+            "md5" : "5285c94efaa6ac706ab405b1c01cc585"
         }
     ]
 }
