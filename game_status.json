@@ -1,7 +1,7 @@
 {
     "server" : {
-        "version" : "0.8.2",
-        "online" : false,
+        "version" : "0.87.4",
+        "online" : true,
         "restart_date" : "Sep 5, 2025 - 19:00 (UTC -3)"
     }
 }
