@@ -1,7 +1,7 @@
 {
     "server" : {
         "version" : "1.0",
-        "online" : true,
+        "online" : false,
         "restart_date" : "Sep 5, 2025 - 19:00 (UTC 0)"
     }
 }
